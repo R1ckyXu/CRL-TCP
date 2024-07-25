@@ -1,6 +1,6 @@
 ## This document aims to explain how the CRL-TCP method accurately addresses the problem of sparse rewards.
 
->The CRL-TCP method smooths the reward values and applies the reward regularization strategy proposed in this paper. This approach effectively mitigates the issue of reward sparsity, improves the performance of test case prioritization, and encourages the agent's exploratory behavior.
+>The CRL-TCP method smooths the reward values and applies the reward regularization policy proposed in this paper. This approach effectively mitigates the issue of reward sparsity, improves the performance of test case prioritization, and encourages the agent's exploratory behavior.
 
 
 Our evaluation of the sparse reward problem is based on previous studies. Specifically, we assess the issue from two perspectives: changes in **cumulative reward** values and **final ranking quality**. 
