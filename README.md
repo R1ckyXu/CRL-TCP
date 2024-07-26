@@ -10,7 +10,7 @@ The experimental framework diagram of our project is shown below:
 
 ### Directory Structure
 
-- `SparseRewardsExplanation`: The explanation for the sparse rewards problem.
+- `SparseRewardExplanation`: The explanation for the sparse reward problem.
 - `src`: Source code for CRL-TCP.
 - `dataset.zip`: Preprocessed dataset used for the experiment.
 - `CRLTCP-Framework.png`: Method framework diagram for CRL-TCP.
